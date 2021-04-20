@@ -1,0 +1,21 @@
+{
+  "adlsClientId": "4d2035d5-4914-40d2-b1e8-988ddc00750c",
+  "adlsContainer": "sanmx-dev-datalake",
+  "adlsClientSecret": "cf6b91e1-bebd-4772-b686-cf2f9d4d88bc",
+  "adlsAccount": "gmsd1zu2adlplatfogene001",
+  "adlsTenantId": "35595a02-4d6d-44ac-99e1-f9ab4cd872db",
+  "appInsightsAnalyticsKey": "e7194ff7-e508-4fb5-9df6-3a423a04df6b",
+  "appName": "consumer-ms",
+  "checkpointLocation": "/checkpoint/eh_raw/",
+  "dataLocation": "/raw",
+  "databaseName": "db-dev-plat-payments-payment-cp-ms",
+  "eventHubKeyName": "consumer",
+  "eventHubKeyValue": "bPmME4MPBL+GZHz32G2DavFUo0IoiIBoPMIvxMTYiLw=",
+  "eventHubPort": "9093",
+  "eventHubRequestTimeout": "60000",
+  "eventHubSessionTimeout": "60000",
+  "eventHubStartingOffset": "earliest",
+  "logLevel": "INFO",
+  "sparkSecret": "5eb4df71-e494-4d7c-90df-4c3d35040f23",
+  "triggerProcessingTime": "0 seconds"
+}
